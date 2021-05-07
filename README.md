@@ -1,8 +1,10 @@
-# PassyV2
+# PasswordPro
 The free, simple, open-source password generator
 
-# What is Passy V2?
-Well, Passy V2 is a simple password generator, made solely with Python.
+# What is PasswordPro?
+Well, PasswordPro is a simple password generator, made solely with Python.
+
+By the way, if you are wondering why it says "PassyV2" in the pictures, it's because that was the program's old name because it is now called PasswordPro. :)
 
 # Prerequisites:
 - You must have the latest version of Python on your computer. You can get it from here: https://www.python.org/downloads/
