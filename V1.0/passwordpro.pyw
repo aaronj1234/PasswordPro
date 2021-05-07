@@ -56,7 +56,7 @@ var1 = IntVar()
 root.resizable(0,0)
 
 
-root.title("Passy 2.0")
+root.title("PasswordPro")
 root.iconbitmap("favicon.ico")
 
 
