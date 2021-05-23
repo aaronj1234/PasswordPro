@@ -36,12 +36,16 @@ It will then redirect you to your web browser to download the Python exe file fr
 ![image](https://user-images.githubusercontent.com/77698398/119260181-8e96cc00-bbc9-11eb-85d6-d82045c3adb0.png)
 
 Now, go back to the command prompt window.
+
 ![image](https://user-images.githubusercontent.com/77698398/119260195-a3735f80-bbc9-11eb-909b-2bf6733ca992.png)
 You will see a prompt something like this:
+
 ![image](https://user-images.githubusercontent.com/77698398/119260215-bbe37a00-bbc9-11eb-93f7-d29636607ff1.png)
 Press any key and the program will run the Python executable you just downloaded.
+
 ![image](https://user-images.githubusercontent.com/77698398/119260248-e46b7400-bbc9-11eb-9ffc-c9b28ce97b2f.png)
 Just follow the prompts to install Python, as seen in the screenshots below:
+
 ![image](https://user-images.githubusercontent.com/77698398/119260266-0107ac00-bbca-11eb-93eb-a24cdffd7ee8.png)
 ![image](https://user-images.githubusercontent.com/77698398/119260339-4a57fb80-bbca-11eb-9b5f-3ba0a48e3a58.png)
 
