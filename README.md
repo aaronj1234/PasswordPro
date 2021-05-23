@@ -23,10 +23,12 @@ Once that has downloaded, go to your Downloads on your computer, right-click on 
 
 ![extract](https://user-images.githubusercontent.com/77698398/117475780-5b5f0680-af54-11eb-871d-6a924f296f98.jpg)
 
-Then, go to the folder with the .pyw and the .ico files and run the .pyw file. It will now run!
+Then, go to control panel > programs and features > and check to see if Python is installed.
+#If Python is not installed...
+Make sure the default downloads directory is set to the Downloads folder, and then double-click on the file called "installpython+runpasswordpro.bat". This will download python from the python website, run the installer, and then run PasswordPro.
+#If Python is installed...
+1Double-click on the "runpasswordpro.bat" file to run PasswordPro. Alternatively, you could just go to the "V1.0" folder and double click on the "passwordpro.pyw" file.
 
-![passy](https://user-images.githubusercontent.com/77698398/117475953-8ba6a500-af54-11eb-9dcf-fdedc4e7a382.jpg)
+....And that's it!
 
-*PLEASE NOTE THAT THE PROGRAM WILL NOT WORK IF YOU DON'T HAVE THE FAVICON.ICO FILE IN THE FOLDER!!!!*
-
-Thanks for trying my first ever GitHub project! I really appreciate it :)
+Thank you very much for trying out my program, this is the first project I have made on GitHub :)
