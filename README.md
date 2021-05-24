@@ -13,19 +13,11 @@ By the way, if you are wondering why it says "PassyV2" in the pictures, it's bec
 
 # METHOD 1: ONLY USE IF YOU DON'T HAVE PYTHON INSTALLED!
 
-1) First, go to the Releases page of this repository and download the batch file. Once it is downloaded, DO NOT RUN IT YET! Please note that you ONLY download this if you do not have Python installed on your computer!
+1) First, go to the Releases page of this repository and download ALL THE FILES into your downloads folder.
 
-![image](https://user-images.githubusercontent.com/77698398/119259617-f4ce1f80-bbc6-11eb-8a01-b5e3d388cab5.png)
+![image](https://user-images.githubusercontent.com/77698398/119397058-917ae500-bccd-11eb-9ff8-098072338653.png)
 
-2) Then, go back to the repository's home page and click the green code button, and then click "Download ZIP".
-
-![image](https://user-images.githubusercontent.com/77698398/119259721-6f973a80-bbc7-11eb-8c96-0e505d8becc1.png)
-
-3) Once that has downloaded, extract the contents of the .ZIP file you just downloaded.
-
-![image](https://user-images.githubusercontent.com/77698398/119259880-33b0a500-bbc8-11eb-8f19-baf7e83ad078.png)
-
-4) Now, double-click on the batch file named "installpython+runpasswordpro.bat" and run it. If it says windows protected your PC or something, don't worry. Just click "more info" and click "run anyway" as the script is completely harmless.
+2) Now, double-click on the batch file named "installpython+runpasswordpro.bat" and run it. If it says windows protected your PC or something, don't worry. Just click "more info" and click "run anyway" as the script is completely harmless.
 
 ![image](https://user-images.githubusercontent.com/77698398/119260076-0a444900-bbc9-11eb-9a29-fdb48c4cc161.png)
 
@@ -43,9 +35,11 @@ Now, go back to the command prompt window.
 You will see a prompt something like this:
 
 ![image](https://user-images.githubusercontent.com/77698398/119260215-bbe37a00-bbc9-11eb-93f7-d29636607ff1.png)
+
 Press any key and the program will run the Python executable you just downloaded.
 
 ![image](https://user-images.githubusercontent.com/77698398/119260248-e46b7400-bbc9-11eb-9ffc-c9b28ce97b2f.png)
+
 Just follow the prompts to install Python, as seen in the screenshots below:
 
 ![image](https://user-images.githubusercontent.com/77698398/119260266-0107ac00-bbca-11eb-93eb-a24cdffd7ee8.png)
@@ -57,19 +51,11 @@ Now, go back to your CMD window, press any key, and this will run PasswordPro! :
 
 # METHOD 2: ONLY USE IF YOU DO HAVE PYTHON INSTALLED:
 
-1) First, go to this repository's home page and click the green code button, and then click "Download ZIP".
+1) First, go to the Releases page of this repository and download ALL THE FILES EXCEPT "installpython+runpasswordpro.bat" into your downloads folder.
 
-![image](https://user-images.githubusercontent.com/77698398/119259721-6f973a80-bbc7-11eb-8c96-0e505d8becc1.png)
+![image](https://user-images.githubusercontent.com/77698398/119397462-0cdc9680-bcce-11eb-8c51-559d59e567cd.png)
 
-2) Once that has downloaded, extract the contents of the .ZIP file you just downloaded.
-
-![image](https://user-images.githubusercontent.com/77698398/119259880-33b0a500-bbc8-11eb-8f19-baf7e83ad078.png)
-
-3) Go click on the "PasswordPro-Main" folder, then click on the next "PasswordPro-Main" folder.
-
-![image](https://user-images.githubusercontent.com/77698398/119260614-7f188280-bbcb-11eb-8ecd-c2f332cb2040.png)
-
-4) Double-click the "runpasswordpro.bat" file to run the program, and press any key when prompted.
+2) Double-click the "runpasswordpro.bat" file to run the program, and press any key when prompted.
 
 ![image](https://user-images.githubusercontent.com/77698398/119260641-aa02d680-bbcb-11eb-91da-719f19acc3b6.png)
 
@@ -80,5 +66,3 @@ Now, go back to your CMD window, press any key, and this will run PasswordPro! :
 .....And that's it!
 
 Thanks for trying out my first ever GitHub Python project! :)
-
-
