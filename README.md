@@ -2,9 +2,9 @@
 The free, simple, open-source password generator
 
 # What is PasswordPro?
-Well, PasswordPro is a simple password generator, made solely with Python.
+Well, PasswordPro is a simple password generator, made solely with Python (and batch files for the files that help to run PasswordPro and install the prerequisites) :)
 
-By the way, if you are wondering why it says "PassyV2" in the pictures, it's because that was the program's old name because it is now called PasswordPro. :)
+Do you wanna see inside the files? Go ahead because everything is open source!!
 
 # Prerequisites:
 - You need to have Windows 7 or above on your computer.
